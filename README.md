@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Audio-DSP-Real-Time-Sound-Synthesis/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Audio-DSP-Real-Time-Sound-Synthesis?style=social" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Audio-DSP-Real-Time-Sound-Synthesis/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Audio-DSP-Real-Time-Sound-Synthesis?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Audio-DSP-Real-Time-Sound-Synthesis/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Audio-DSP-Real-Time-Sound-Synthesis?style=social" alt="GitHub forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Audio-DSP-Real-Time-Sound-Synthesis/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -60,11 +60,11 @@ The table below compiles leading hosted audio production services, collaborative
 
 ## 💻 Open-Source DSP, DAWs & Synthesis Engines
 
-This section highlights production-ready open-source DAWs, real-time signal processing toolkits, hybrid synthesis engines, and plugin SDKs. Repositories are organized with real-time star badges linking to each project's stargazers page and ranked by star count.
+This section highlights production-ready open-source DAWs, real-time signal processing toolkits, hybrid synthesis engines, and plugin SDKs. Repositories are organized with real-time Stars_Badges linking to each project's stargazers page and ranked by Stars_Count.
 
 ### 🎛️ Digital Audio Workstations (DAWs) & DJ Software
 
-| Project | Description | Tech Stack | Stars |
+| Project | Description | Tech Stack | GitHub_Stars |
 | :--- | :--- | :--- | :--- |
 | **[Audacity](https://github.com/audacity/audacity)** | Multi-track audio editor and recorder for Windows, macOS, and Linux | C++, wxWidgets | [![Stars](https://img.shields.io/github/stars/audacity/audacity?style=social&color=white)](https://github.com/audacity/audacity/stargazers) |
 | **[LMMS](https://github.com/LMMS/lmms)** | Cross-platform music production digital audio workstation | C++, Qt | [![Stars](https://img.shields.io/github/stars/LMMS/lmms?style=social&color=white)](https://github.com/LMMS/lmms/stargazers) |
@@ -77,7 +77,7 @@ This section highlights production-ready open-source DAWs, real-time signal proc
 
 ### ⚡ Audio DSP Frameworks & Plugin Toolkits
 
-| Project | Description | Tech Stack | Stars |
+| Project | Description | Tech Stack | GitHub_Stars |
 | :--- | :--- | :--- | :--- |
 | **[JUCE](https://github.com/juce-framework/JUCE)** | Industry-standard C++ framework for cross-platform audio plugins (VST3, AU, AAX) and desktop apps | C++ | [![Stars](https://img.shields.io/github/stars/juce-framework/JUCE?style=social&color=white)](https://github.com/juce-framework/JUCE/stargazers) |
 | **[Pedalboard](https://github.com/spotify/pedalboard)** | Python audio processing, DSP effects chain, and VST3/AU host developed by Spotify | Python, C++ | [![Stars](https://img.shields.io/github/stars/spotify/pedalboard?style=social&color=white)](https://github.com/spotify/pedalboard/stargazers) |
@@ -90,7 +90,7 @@ This section highlights production-ready open-source DAWs, real-time signal proc
 
 ### 🎹 Sound Synthesis, Modular & Sound Computing Systems
 
-| Project | Description | Tech Stack | Stars |
+| Project | Description | Tech Stack | GitHub_Stars |
 | :--- | :--- | :--- | :--- |
 | **[SuperCollider](https://github.com/supercollider/supercollider)** | Real-time audio synthesis engine, dynamic language (`sclang`), and algorithmic composition environment | C++, SuperCollider | [![Stars](https://img.shields.io/github/stars/supercollider/supercollider?style=social&color=white)](https://github.com/supercollider/supercollider/stargazers) |
 | **[Bespoke Synth](https://github.com/BespokeSynth/BespokeSynth)** | Software modular synthesizer and live patchable generative sound environment | C++, JUCE | [![Stars](https://img.shields.io/github/stars/BespokeSynth/BespokeSynth?style=social&color=white)](https://github.com/BespokeSynth/BespokeSynth/stargazers) |
@@ -117,7 +117,7 @@ Contributions are warmly encouraged! Follow these steps to help keep this curate
 2. 🌿 **Create a feature branch**: `git checkout -b feature/add-new-audio-tool`.
 3. 📝 **Add or update entries** following the established format:
    - For **SaaS tools**, ensure specific paid starting tier pricing and concrete free-tier/trial limits are stated.
-   - For **Open-Source projects**, include the repository name, GitHub star badge (`style=social&color=white` linking to the stargazers page), a concise one-sentence description, and its core tech stack.
+   - For **Open-Source projects**, include the repository name, GitHub Stars_Badge (`style=social&color=white` linking to the stargazers page), a concise one-sentence description, and its core tech stack.
 4. ✅ **Ensure accuracy**: Verify links, repository active status, and descriptions.
 5. 🚀 **Submit a Pull Request** with a brief summary of the added tool.
 
