@@ -1,6 +1,6 @@
 # Awesome-Audio-DSP-Real-Time-Sound-Synthesis
 
-# Top Audio DSP & Real-Time Sound Synthesis Ecosystem
+## Top Audio DSP & Real-Time Sound Synthesis Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Web-Based DAWs, Real-Time Synthesis Engines & Self-Hosted Audio Frameworks*  
